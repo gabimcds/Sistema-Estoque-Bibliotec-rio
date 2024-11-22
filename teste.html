@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title>Editar Aluno</title>
+</head>
+<body>
+    <h1>Editar Dados do Aluno</h1>
+    <form class="aluno-form">
+        <label for="id">ID:</label>
+        <input type="text" id="id" name="id" disabled />
+
+        <label for="nome">Nome:</label>
+        <input type="text" id="nome" name="nome" />
+
+        <label for="idade">Idade:</label>
+        <input type="text" id="idade" name="idade" />
+
+        <label for="unidSenai">Unidade Senai:</label>
+        <input type="text" id="unidSenai" name="unidSenai" />
+
+        <label for="curso">Curso:</label>
+        <input type="text" id="curso" name="curso" />
+
+        <label for="turma">Turma:</label>
+        <input type="text" id="turma" name="turma" />
+
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" />
+
+        <label for="nMatricula">Número de Matrícula:</label>
+        <input type="text" id="nMatricula" name="nMatricula" />
+
+        <button type="submit">Salvar</button>
+    </form>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", () => {
+            // Carregar os dados do aluno ao carregar a página
+            fetch('/alunos')
+                .then(response => response.json())
+                .then(data => {
+                    // Puxar o primeiro aluno (ou selecionar de outra forma)
+                    const aluno = data.cadastrarAlunos[0];
+
+                    // Preencher os campos do formulário com os dados do aluno
+                    document.getElementById("id").value = aluno.id;
+                    document.getElementById("nome").value = aluno.nome;
+                    document.getElementById("idade").value = aluno.idade;
+                    document.getElementById("unidSenai").value = aluno.unidSenai;
+                    document.getElementById("curso").value = aluno.curso;
+                    document.getElementById("turma").value = aluno.turma;
+                    document.getElementById("email").value = aluno.email;
+                    document.getElementById("nMatricula").value = aluno.nMatricula;
+                })
+                .catch(error => {
+                    console.error('Erro ao carregar os dados:', error);
+                    alert('Não foi possível carregar os dados do aluno.');
+                });
+        });
+
+        // Quando o formulário for enviado, enviar as alterações ao servidor
+        document.querySelector(".aluno-form").addEventListener("submit", (event) => {
+            event.preventDefault();  // Impede o envio padrão do formulário
+
+            // Coletar os dados do formulário
+            const alunoAlterado = {
+                id: document.getElementById("id").value,  // Não alterado, mas necessário para identificação
+                nome: document.getElementById("nome").value,
+                idade: document.getElementById("idade").value,
+                unidSenai: document.getElementById("unidSenai").value,
+                curso: document.getElementById("curso").value,
+                turma: document.getElementById("turma").value,
+                email: document.getElementById("email").value,
+                nMatricula: document.getElementById("nMatricula").value,
+            };
+
+            // Enviar as alterações para o servidor
+            fetch('/alunos', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify(alunoAlterado),
+            })
+            .then(response => response.json())
+            .then(data => {
+                alert('Dados do aluno atualizados com sucesso!');
+                console.log(data);
+            })
+            .catch(error => {
+                alert('Erro ao salvar as alterações.');
+                console.error(error);
+            });
+        });
+
+    </script>
+
+    <script src="js/server.js"></script>
+</body>
+</html>

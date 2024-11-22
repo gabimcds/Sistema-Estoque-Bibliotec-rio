@@ -1,0 +1,300 @@
+{
+  "pessoas": [
+    {
+      "nome": "Eduarda Nogueira",
+      "matricula": "1111",
+      "senha": "159",
+      "id": "1"
+    },
+    {
+      "nome": "Carlos Henrique",
+      "matricula": "3698",
+      "senha": "1",
+      "id": "2"
+    },
+    {
+      "nome": "Bruno",
+      "matricula": "3214",
+      "senha": "2",
+      "id": "3"
+    },
+    {
+      "nome": "Gabriela Martins",
+      "matricula": "8888",
+      "senha": "8888",
+      "id": "4"
+    },
+    {
+      "nome": "Cauã Oliveira",
+      "matricula": "9999",
+      "senha": "9999",
+      "id": "5"
+    }
+  ],
+  "cadastrarLivros": [
+    {
+      "titulo": "Pessoas Normais",
+      "sinopse": "Na escola, no interior da Irlanda, Connell e Marianne fingem não se conhecer. Ele é a estrela do time de futebol, ela é solitária e preza por sua privacidade. Mas a mãe de Connell trabalha como empregada na casa dos pais de Marianne, e quando o garoto vai buscar a mãe depois do expediente, uma conexão estranha e indelével cresce entre os dois adolescentes ― contudo, um deles está determinado a esconder a relação.",
+      "categoria": "Romance",
+      "idioma": "Português",
+      "faixaEtaria": "18+",
+      "nPaginas": "264 páginas",
+      "imagem": "https://m.media-amazon.com/images/I/71jrp43TCcL._AC_UF1000,1000_QL80_.jpg",
+      "estoque": "Esgotado",
+      "id": "4e83"
+    },
+    {
+      "titulo": "A Vida Invisível de Addie Larue",
+      "sinopse": "França: 1714. Addie LaRue não queria pertercer a ninguém ou a lugar nenhum. Em um momento de desespero, a jovem faz um pacto: a vida eterna, sob a condição de ser esquecida por quem a conhecer. Um piscar de olhos, e, como um sopro, Addie se vai. Uma virada de costas, e sua existência se dissipa na memória de todos.",
+      "categoria": "Fantasia",
+      "idioma": "Português",
+      "faixaEtaria": "16+",
+      "nPaginas": "504",
+      "imagem": "https://m.media-amazon.com/images/I/71X245OYRBL._AC_UF1000,1000_QL80_.jpg",
+      "estoque": "Esgotado",
+      "id": "e7dd"
+    },
+    {
+      "titulo": "Quarta asa",
+      "sinopse": "Violet Sorrengail, uma jovem de vinte anos, estava destinada a entrar na Divisão dos Escribas, levando uma vida relativamente tranquila entre os livros e as aulas de História. No entanto, a general comandante das forças de Navarre – também conhecida como sua mãe –, durona como as garras de um dragão, ordena que Violet se junte às centenas de candidatos que buscam se tornar a elite de seu país: cavaleiros de dragões.",
+      "categoria": "Fantasia",
+      "idioma": "Português",
+      "faixaEtaria": "18+",
+      "nPaginas": "544",
+      "imagem": "https://imagens.disal.com.br/produtos/ampliada/9913440.jpg",
+      "estoque": "Esgotado",
+      "id": "8b75"
+    },
+    {
+      "titulo": "Panificação ",
+      "sinopse": "Aprenda na prática como preparar diversos pães, como: pão de alho, pão de cebola, pão de mandioquinha, pão caseiro, pão de ervas finas, pão australiano, pão português, pão de ovos, bisnaguinha e muitos, muitos outros.  Além disso, durante seus estudos, você aprenderá a base da panificação: tipos e estrutura de trigo, testes de glúten, processos e efeitos de fermentação, classificações de pães e tipos de malte.",
+      "categoria": "SENAI",
+      "idioma": "Português",
+      "faixaEtaria": "14+",
+      "nPaginas": "320",
+      "imagem": "https://m.media-amazon.com/images/I/61ZfTtvsu2L._SY466_.jpg",
+      "estoque": "Esgotado",
+      "id": "5696"
+    },
+    {
+      "titulo": "Fundamentos de soldagem I ",
+      "sinopse": "Atualmente, a soldagem é o método mais importante para a união permanente de metais. Esta publicação aborda os principais processos de soldagem, seus materiais e técnicas, mostrando sua importância no contexto da indústria metalmecânica. Destaca os conceitos fundamentais, terminologias e simbologias. Detalha as técnicas, características, equipamentos dos processos oxigás, eletrodo revestido, TIG, MIG/MAG, assim como suas etapas e variantes, além das normas técnicas que regulam essas operações.",
+      "categoria": "SENAI",
+      "idioma": "Português",
+      "faixaEtaria": "14+",
+      "nPaginas": "219 páginas",
+      "imagem": "https://m.media-amazon.com/images/I/711F3HeJvuL._SL1500_.jpg",
+      "estoque": "Esgotado",
+      "id": "460c"
+    },
+    {
+      "titulo": "Comandos Eletroeletrônicos",
+      "sinopse": "Os defeitos mais comuns que acontecem nos contatores e os problemas causados nos circuitos elétricos por eles comandados; a reversão de rotação de motores trifásicos; o sistema de partida para motor trifásico com comutação automática estrela-triângulo, com contatores e com relé de proteção conjugado a um transformador de corrente; a reversão de motor trifásico tipo Dahlander são algumas das aplicações dos comandos eletroeletrônicos tratados neste livro. Você vai estudar também a sequência de outros tipos de partida de motores trifásicos como rotor bobinado, chave compensadora, relés temporizados e da frenagem de motor, além do funcionamento de dispositivos de segurança, do circuito de um motor trifásico comandado por contator entre outros motores.",
+      "categoria": "SENAI",
+      "idioma": "Português",
+      "faixaEtaria": "14+",
+      "nPaginas": "124 páginas",
+      "imagem": "https://m.media-amazon.com/images/I/71QMGU+5SFL._SY466_.jpg",
+      "estoque": "Disponível",
+      "id": "d9b8"
+    },
+    {
+      "id": "71b6",
+      "titulo": "Sistemas mecânicos de motocicletas",
+      "sinopse": "A história das motocicletas, alguns dos modelos já fabricados, os tipos e componentes dos motores, seu funcionamento e procedimentos de manutenção são estudados nesta publicação. São apresentados os tipos de chassi, os detalhes dos sistemas de freios, o sistema de direção e suspensão, tipos de amortecedores, especificação técnica dos pneus, a divisão do sistema de transmissão. O livro descreve também o sistema de alimentação de combustível, a composição do sistema de ignição, como funciona o sistema de lubrificação e arrefecimento, diagrama elétrico, baterias e sistema de sinalização e iluminação.",
+      "categoria": "SENAI",
+      "idioma": "Português",
+      "faixaEtaria": "14+",
+      "nPaginas": "212 páginas",
+      "imagem": "https://m.media-amazon.com/images/I/71OfsOXv5RL._SL1500_.jpg",
+      "estoque": "Disponível"
+    },
+    {
+      "titulo": "Máquinas elétricas",
+      "sinopse": "Este livro inicia com o estudo dos conceitos sobre campo magnético, o fluxo de indução magnética, fatores de conversão, construção do gerador elementar e seu funcionamento. Aborda os princípios da lei de Lenz e regra de Fleming; mostra a estrutura do gerador de CC, conversão de CA em CC e os pulsos de saída; destaca o funcionamento do gerador trifásico, as ligações estrela e triângulo, potência trifásica, os transformadores monofásicos e trifásicos, os tipos de motores elétricos monofásicos, os motores trifásicos CA, construção e princípio de funcionamento do motor CC, os fundamentos dos indutores e capacitores e os tipos e comportamento de cargas.",
+      "categoria": "SENAI",
+      "idioma": "Português",
+      "faixaEtaria": "14+",
+      "nPaginas": "137 páginas",
+      "imagem": "https://m.media-amazon.com/images/I/71pZNhm8QfL._SL1500_.jpg",
+      "estoque": "Esgotado",
+      "id": "b1da"
+    },
+    {
+      "id": "b0dc",
+      "titulo": "A rainha vermelha",
+      "sinopse": " O mundo de Mare Barrow é dividido pelo sangue: vermelho ou prateado. Mare e sua família são vermelhos: plebeus, humildes, destinados a servir uma elite prateada cujos poderes sobrenaturais os tornam quase deuses. Mare rouba o que pode para ajudar sua família a sobreviver e não tem esperanças de escapar do vilarejo miserável onde mora. Entretanto, numa reviravolta do destino, ela consegue um emprego no palácio real, onde, em frente ao rei e a toda a nobreza, descobre que tem um poder misterioso… Mas como isso seria possível, se seu sangue é vermelho? Em meio às intrigas dos nobres prateados, as ações da garota vão desencadear uma dança violenta e fatal, que colocará príncipe contra príncipe - e Mare contra seu próprio coração.",
+      "categoria": "Romance",
+      "idioma": "Português",
+      "faixaEtaria": "16+",
+      "nPaginas": "467 páginas",
+      "imagem": "https://m.media-amazon.com/images/I/81DQMKmWvCL._SL1500_.jpg",
+      "estoque": "Disponível"
+    },
+    {
+      "id": "0aa5",
+      "titulo": "O príncipe cruel",
+      "sinopse": "Primeiro livro da mais nova série de Holly Black. Conheça a impressionante história de uma garota mortal que se vê presa em uma teia de intrigas reais. Jude tinha 7 anos quando seus pais foram assassinados e foi forçada a viver no Reino das Fadas. Dez anos depois, tudo o que ela quer é ser como eles – lindos e imortais – e realmente pertencer ao Reino das Fadas, apesar de sua mortalidade. Mas muitos do povo das Fadas desprezam os humanos. Especialmente o Príncipe Cardan, o filho mais jovem, mais bonito e mais cruel do Grande Rei. Para ganhar um lugar na Alta Corte, ela deve desafiá-lo... e enfrentar as consequências. Envolvida em intrigas e traições do palácio, Jude descobre sua própria capacidade para truques e derramamento de sangue. Mas, com a ameaça de uma guerra civil e o Reino das Fadas por um fio, Jude precisará arriscar sua vida em uma perigosa aliança para salvar suas irmãs, e o próprio Reino. Com personagens únicos, reviravoltas inesperadas, e uma traição de tirar o fôlego, este livro vai deixar o leitor pedindo bis – querendo mergulhar de cabeça na continuação deste universo.",
+      "categoria": "Romance",
+      "idioma": "Português",
+      "faixaEtaria": "16+",
+      "nPaginas": "415 páginas",
+      "imagem": "https://m.media-amazon.com/images/I/913FVnW0yQL._SL1500_.jpg",
+      "estoque": "Disponível"
+    },
+    {
+      "id": "7b59",
+      "titulo": "Caraval",
+      "sinopse": "Os anos de espera acabaram: a jovem Scarlett Dragna finalmente recebeu o tão esperado convite para participar do Caraval, um evento lendário que ocorre uma vez por ano e que conta com a participação do público.  Acontece que ela e sua adorada irmã mais nova, Donatella, vivem sob a tutela de um pai tão poderoso quanto cruel, que nunca permitiu que as duas saíssem da pequena ilha onde moram. E, como se não bastasse, o pai prometeu a mão de Scarlett para um conde. O casamento arranjado faz com que ela perca as esperanças de participar do Caraval.  Ao perceber a frustração da irmã, Tella se alia a um misterioso marinheiro para levar Scarlett ao local do jogo. Mas, assim que elas chegam, a caçula é sequestrada pelo organizador do evento. Ao que tudo indica, o jogo desse ano irá girar em torno da irmã de Scarlett: vence quem encontrar Tella primeiro.",
+      "categoria": "Fantasia",
+      "idioma": "Português",
+      "faixaEtaria": "16+",
+      "nPaginas": "427 páginas",
+      "imagem": "https://m.media-amazon.com/images/I/81sGirC3z5L._SL1500_.jpg",
+      "estoque": "Disponível"
+    },
+    {
+      "id": "7412",
+      "titulo": "A Biblioteca da Meia-Noite",
+      "sinopse": "Aos 35 anos, Nora Seed é uma mulher cheia de talentos e poucas conquistas. Arrependida das escolhas que fez no passado, ela vive se perguntando o que poderia ter acontecido caso tivesse vivido de maneira diferente. Após ser demitida e seu gato ser atropelado, Nora vê pouco sentido em sua existência e decide colocar um ponto final em tudo. Porém, quando se vê na Biblioteca da Meia-Noite, Nora ganha uma oportunidade única de viver todas as vidas que poderia ter vivido.  Neste lugar entre a vida e a morte, e graças à ajuda de uma velha amiga, Nora pode, finalmente, se mudar para a Austrália, reatar relacionamentos antigos – ou começar outros –, ser uma estrela do rock, uma glaciologista, uma nadadora olímpica... enfim, as opções são infinitas. Mas será que alguma dessas outras vidas é realmente melhor do que a que ela já tem?",
+      "categoria": "Suspense",
+      "idioma": "Português",
+      "faixaEtaria": "16+",
+      "nPaginas": "308 páginas",
+      "imagem": "https://m.media-amazon.com/images/I/81iqH8dpjuL._SL1500_.jpg",
+      "estoque": "Esgotado"
+    },
+    {
+      "titulo": "A hora da estrela",
+      "sinopse": "A nordestina Macabéa, a protagonista de A hora da estrela, é uma mulher miserável, que mal tem consciência de existir. Depois de perder seu único elo com o mundo, uma velha tia, ela viaja para o Rio, onde aluga um quarto, se emprega como datilógrafa e gasta suas horas ouvindo a Rádio Relógio. Apaixona-se, então, por Olímpico de Jesus, um metalúrgico nordestino, que logo a trai com uma colega de trabalho. Desesperada, Macabéa consulta uma cartomante, que lhe prevê um futuro luminoso, bem diferente do que a espera.",
+      "categoria": "Romance",
+      "idioma": "Português",
+      "faixaEtaria": "+18",
+      "nPaginas": "88 páginas",
+      "imagem": "https://m.media-amazon.com/images/I/61TaHURu27L._AC_UF1000,1000_QL80_.jpg",
+      "estoque": "Disponível",
+      "id": "5210"
+    },
+    {
+      "id": "345c",
+      "titulo": "Ainda Estou Aqui",
+      "sinopse": "Eunice Paiva é uma mulher de muitas vidas. Casada com o deputado Rubens Paiva, esteve ao seu lado quando foi cassado e exilado, em 1964. Mãe de cinco filhos, passou a criá-los sozinha quando, em 1971, o marido foi preso por agentes da ditadura, a seguir torturado e morto. Em meio à dor, ela se reinventou. Voltou a estudar, tornou-se advogada, defensora dos direitos indígenas. Nunca chorou na frente das câmeras. Ao falar de Eunice, e de sua última luta, desta vez contra o Alzheimer, Marcelo Rubens Paiva fala também da memória, da infância e do filho. E mergulha num momento obscuro da história recente brasileira para contar ― e tentar entender ― o que de fato ocorreu com Rubens Paiva, seu pai, naquele janeiro de 1971.",
+      "categoria": "Biografia",
+      "idioma": "Português",
+      "faixaEtaria": "+16",
+      "nPaginas": "296 páginas",
+      "imagem": "https://m.media-amazon.com/images/I/71awRnYG2gL._UF894,1000_QL80_.jpg",
+      "estoque": "Disponível"
+    },
+    {
+      "id": "6a19",
+      "titulo": "Declínio de um homem",
+      "sinopse": "A obra sintetiza em cenas e passagens notoriamente biográficas muitas das angústias que tanto alimentavam a personalidade autodestrutiva do autor, a saber: a dificuldade de entendimento com seus familiares, sua antissociabilidade niilista, seu patológico apego ao álcool - vício do qual nunca conseguiu se livrar -, sua autoestima inexistente, enfim, sua evidente sensação de deslocamento em relação ao mundo - como se tivesse sido enviado à existência por mero descuido. O livro é estruturado em três cadernos, nos quais o autor, por meio do personagem alter ego Yozo - um jovem estudante provinciano que tenta sobreviver na capital Tóquio - relata em primeira pessoa diversos episódios sobre as hostilidades da vida que ele tem de enfrentar. Yozo é um depressivo contumaz cuja tristeza se espraia nele como uma metástase, contaminando suas energias e impedindo-o de recuperar uma alegria de viver que, na verdade, nunca sentiu.",
+      "categoria": "Romance",
+      "idioma": "Português",
+      "faixaEtaria": "18+",
+      "nPaginas": "152 páginas",
+      "imagem": "https://m.media-amazon.com/images/I/81sblL-t2iL.jpg",
+      "estoque": "Disponível"
+    },
+    {
+      "id": "8ea3",
+      "titulo": " Orgulho e Preconceito",
+      "sinopse": "Orgulho e preconceito é o livro mais famoso de Jane Austen e possui uma série de personagens inesquecíveis e um enredo memorável. Austen nos apresenta Elizabeth Bennet como heroína irresistível e seu pretendente aristocrático, o sr. Darcy. Nesse livro, aspectos diferentes são abordados: orgulho encontra preconceito, ascendência social confronta desprezo social, equívocos e julgamentos antecipados conduzem alguns personagens ao sofrimento e ao escândalo. O livro pode ser considerado a obra-prima da escritora, que equilibra comédia com seriedade, observação meticulosa das atitudes humanas e sua ironia refinada. A nova coleção possui capa dura e estilo inspirado nos bullet journals.",
+      "categoria": "Romance",
+      "idioma": "Português",
+      "faixaEtaria": "+16",
+      "nPaginas": "424 páginas",
+      "imagem": "https://m.media-amazon.com/images/I/91crZiIB6aL._SL1500_.jpg",
+      "estoque": "Disponível"
+    },
+    {
+      "id": "b8b3",
+      "titulo": "Hamlet",
+      "sinopse": "Um jovem príncipe se reúne com o fantasma de seu pai, que alega que seu próprio irmão, agora casado com sua viúva, o assassinou. O príncipe cria um plano para testar a veracidade de tal acusação, forjando uma brutal loucura para traçar sua vingança. Mas sua aparente insanidade logo começa a causar estragos - para culpados e inocentes. Esta é a sinopse da tragédia de Shakespeare, agora em nova e fluente tradução de Lawrence Flores Pereira. Mas a trama inventada pelo dramaturgo inglês vai muito além disso: Hamlet é um dos momentos mais altos da criação artística mundial, um retrato - eletrizante e sempre contemporâneo - da vida emocional de um Homo sapiens adulto. Leitura obrigatória do vestibular da UFRGS.",
+      "categoria": "Drama",
+      "idioma": "Português",
+      "faixaEtaria": "+16",
+      "nPaginas": "320 páginas",
+      "imagem": "https://m.media-amazon.com/images/I/71vZ7kcv-8L._UF894,1000_QL80_.jpg",
+      "estoque": "Disponível"
+    },
+    {
+      "id": "f946",
+      "titulo": "Coraline",
+      "sinopse": "Certas portas não devem ser abertas. E Coraline descobre isso pouco tempo depois de chegar com os pais à sua nova casa, um apartamento em um casarão antigo ocupado por vizinhos excêntricos e envolto por uma névoa insistente, um mundo de estranhezas e magia, o tipo de universo que apenas Neil Gaiman pode criar.  Ao abrir uma porta misteriosa na sala de casa, a menina se depara com um lugar macabro e fascinante. Ali, naquele outro mundo, seus outros pais são criaturas muito pálidas, com botões negros no lugar dos olhos, sempre dispostos a lhe dar atenção, fazer suas comidas preferidas e mostrar os brinquedos mais divertidos. Coraline enfim se sente... em casa. Mas essa sensação logo desaparece, quando ela descobre que o lugar guarda mistérios e perigos, e a menina se dá conta de que voltar para sua verdadeira casa vai ser muito mais difícil ― e assustador ― do que imaginava.",
+      "categoria": "Fantasia",
+      "idioma": "Português",
+      "faixaEtaria": "+12",
+      "nPaginas": "224 páginas",
+      "imagem": "https://m.media-amazon.com/images/I/91DZobBc1BL.jpg",
+      "estoque": "Disponível"
+    }
+  ],
+  "cadastrarAlunos": [
+    {
+      "id": "78cd",
+      "nome": "Gabriela",
+      "idade": "18",
+      "unidSenai": "Mogi das Cruzes",
+      "curso": "Desenvolvimento de Sistemas",
+      "turma": "I2P4",
+      "email": "gabi@gmail.com",
+      "nMatricula": "8888"
+    },
+    {
+      "id": "0abc",
+      "nome": "eduarda beatriz",
+      "idade": "18",
+      "unidSenai": "Mogi das Cruzes",
+      "curso": "Mecatrônica",
+      "turma": "7",
+      "email": "4",
+      "nMatricula": "2"
+    }
+  ],
+  "reservas": [
+    {
+      "id": "20e1",
+      "titulo": "Diário de um Banana",
+      "nMatricula": "1111",
+      "dataEmprestimo": "2024-11-08"
+    },
+    {
+      "id": "5f0a",
+      "titulo": "Pessoas Normais",
+      "nMatricula": "1111",
+      "dataEmprestimo": "2024-11-22"
+    },
+    {
+      "id": "88c3",
+      "titulo": "Quarta asa",
+      "nMatricula": "8888",
+      "dataEmprestimo": "2024-11-26"
+    },
+    {
+      "id": "2bfc",
+      "titulo": "Panificação ",
+      "nMatricula": "9999",
+      "dataEmprestimo": "2024-11-26"
+    },
+    {
+      "id": "0ce1",
+      "titulo": "Fundamentos de soldagem I ",
+      "nMatricula": "8888",
+      "dataEmprestimo": "2024-11-29"
+    },
+    {
+      "id": "b159",
+      "titulo": "A Vida Invisível de Addie Larue",
+      "nMatricula": "9999",
+      "dataEmprestimo": "2024-11-29"
+    },
+    {
+      "id": "3f1f",
+      "titulo": "Máquinas elétricas",
+      "nMatricula": "1111",
+      "dataEmprestimo": "2024-11-29"
+    }
+  ]
+}
